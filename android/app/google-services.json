@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "742893464523",
+    "project_id": "laravel-push-notificatio-5327d",
+    "storage_bucket": "laravel-push-notificatio-5327d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742893464523:android:44a7fb8cf9724f267ce44e",
+        "android_client_info": {
+          "package_name": "com.example.nor_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742893464523-nul2thjlajpkhqnic04do6ltb4hqkf1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nor_notification",
+            "certificate_hash": "eb0dcb1a81c70177395cae30416dd2eee0e22892"
+          }
+        },
+        {
+          "client_id": "742893464523-8oh4dl8k3tpl0lgbuvrldn29drbknhf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHFwwVIXz4wvMQFOJpKxBzCFOnlorc8fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742893464523-8oh4dl8k3tpl0lgbuvrldn29drbknhf8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "742893464523-he6hq2bogvd6oophpkqp49o6rr4b6i4s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterPushnotfication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
